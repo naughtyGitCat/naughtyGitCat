@@ -1,29 +1,37 @@
-# Hello, I'm naughtyGitCat! 😸
+# naughtyGitCat 😸
+
+Database Reliability Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=naughtyGitCat)
 
-## About Me
+Building internal DBA platforms and database tooling at scale. Focused on MySQL / MongoDB / Redis / OceanBase operations, monitoring, alerting, and automation. Homelab tinkerer on the side.
 
-I'm a passionate developer who loves coding and exploring new technologies. My main interests include web development, open-source contributions, and learning new programming languages.
+## Featured projects
 
-- 🔭 I’m currently working on improving my skills in sre, multimedia manage domain.
-- 🌱 I’m currently learning go/fsharp/react/micropython.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about anything related to sre, system, or database.
-- 📫 How to reach me: psyduck007@outlook.com
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: I love cats and often include them in my projects!
+| Project | Description |
+|---------|-------------|
+| [MySQLMiscellaneous](https://github.com/naughtyGitCat/MySQLMiscellaneous) | MySQL utilities and troubleshooting toolkit |
+| [mdns-proxy](https://github.com/naughtyGitCat/mdns-proxy) | Proxy local mDNS services to remote via a simple DNS server |
+| [HardwareExporterWindows](https://github.com/naughtyGitCat/HardwareExporterWindows) | Export Windows hardware sensors to Prometheus |
+| [mp-relay](https://github.com/naughtyGitCat/mp-relay) | Unified magnet/torrent dispatcher for Jellyfin media pipeline |
+| [face-cast](https://github.com/naughtyGitCat/face-cast) | Media library face recognition + clustering with InsightFace + HDBSCAN |
+| [anonymous-query-scan](https://github.com/naughtyGitCat/anonymous-query-scan) | Fix go-sql-driver/mysql scanning rows to `[]interface` |
 
-## My Skills
+## Tech stack
 
-- **Languages**: JavaScript, Python, HTML, CSS, Go, C#
-- **Frameworks/Libraries**: React, Node.js, Django, Asp.Net Core, Grpc
-- **Tools**: Git, Docker, VS Code, Postman, Obsidian
+| | |
+|---|---|
+| **Languages** | C# · Go · Python · Shell |
+| **Databases** | MySQL · MongoDB · Redis · OceanBase |
+| **Frameworks** | ASP.NET Core · gRPC · Kafka |
+| **Infra** | Docker · Prometheus · Grafana |
 
-## GitHub Stats
+## GitHub stats
 
 ![naughtyGitCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=naughtyGitCat&show_icons=true&theme=radical)
 
-## Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naughtyGitCat&layout=compact&theme=radical)
+
+---
+
+📫 psyduck007@outlook.com
